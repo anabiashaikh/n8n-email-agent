@@ -15,7 +15,6 @@ echo "1. Import the workflow in n8n" >> README.md
 echo "2. Configure email credentials" >> README.md
 echo "3. Activate the workflow" >> README.md
 
-# Add aur commit karein
 git add README.md
 git commit -m "Add README documentation"
 git push
