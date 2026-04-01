@@ -1,6 +1,4 @@
 cd C:\Users\anabia\n8n-email-agent
-
-# README file banayein
 echo "# n8n Email Agent Workflow" > README.md
 echo "" >> README.md
 echo "## 📧 About" >> README.md
